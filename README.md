@@ -1,5 +1,7 @@
 # mutesi-cc
 
+_Mutesi Chess Clock_
+
 This project is created with [expo](https://expo.io/) 
 
 ## Install
@@ -15,4 +17,3 @@ if some day, you have some problem with fonts or Icons because don't show, this 
   rm package-lock.json
   npm install
 ```
-# mcc-app
